@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EBCCB29E2419A2AD0096C966 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCCB29D2419A2AD0096C966 /* CalculatorBrain.swift */; };
 		EBF75A1624106D9200A9CBF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF75A1524106D9200A9CBF4 /* AppDelegate.swift */; };
 		EBF75A1824106D9200A9CBF4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF75A1724106D9200A9CBF4 /* SceneDelegate.swift */; };
 		EBF75A1A24106D9200A9CBF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF75A1924106D9200A9CBF4 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EBCCB29D2419A2AD0096C966 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		EBF75A1224106D9200A9CBF4 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBF75A1524106D9200A9CBF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBF75A1724106D9200A9CBF4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				EBF75A1E24106D9400A9CBF4 /* Assets.xcassets */,
 				EBF75A2024106D9400A9CBF4 /* LaunchScreen.storyboard */,
 				EBF75A2324106D9400A9CBF4 /* Info.plist */,
+				EBCCB29D2419A2AD0096C966 /* CalculatorBrain.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				EBF75A1A24106D9200A9CBF4 /* ViewController.swift in Sources */,
 				EBF75A1624106D9200A9CBF4 /* AppDelegate.swift in Sources */,
+				EBCCB29E2419A2AD0096C966 /* CalculatorBrain.swift in Sources */,
 				EBF75A1824106D9200A9CBF4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
